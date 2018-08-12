@@ -14,12 +14,12 @@ techniques is that bounding boxes drawn around the objects may not be tight and 
 [image2]: ./images/2_encoder_decoder.png
 [image3]: ./images/3_Transposed_Convolution.png
 
-[image1]
+![alt text] [image1]
 
 
 # FCN Architecture
 
-[image3]
+![alt text] [image2]
 
 Typical network architectures employed for object detection or classification use "Fully Connnected" Layers to learn class of objects. Fully Convolutional Network e
 
@@ -33,7 +33,7 @@ Typical network architectures employed for object detection or classification us
 
 ## Transposed convlution
 
-[image3]
+![alt text] [image3]
 
 ## Skip connections
 
