@@ -86,6 +86,12 @@ Performance of the network on the test images seem to be pretty decent as eviden
 
 ## Sample Video
 
+Below is inference on a sample video snippet on Indian road conditions. Networks seems to have done poorly on this video as Indian road conditions are much
+more complex and image features of Indian roads vary in terms of color, texture, etc and training data does not contain sufficient samples of such images.
+With more training and data and complex network such as U-net would be helpful to generalize better.
+
+https://github.com/sreakdgeek/Semantic-Segmentation/blob/master/semantic_output_new2.avi
+
 # References
 
 https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
